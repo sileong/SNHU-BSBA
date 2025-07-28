@@ -1,2 +1,0 @@
-# SNHU-BSBA
-Course Work
